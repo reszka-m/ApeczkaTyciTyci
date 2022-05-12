@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069352257994",
+    "project_id": "apeczkatycityci",
+    "storage_bucket": "apeczkatycityci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069352257994:android:df4b535d519c6bace0a733",
+        "android_client_info": {
+          "package_name": "com.example.apeczkatycityci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069352257994-365aq858b6gka807eofcrbqmod8p13e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhTk6I7lB84bYbxiNmJwq6DQULri3XQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069352257994-365aq858b6gka807eofcrbqmod8p13e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
